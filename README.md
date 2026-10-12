@@ -1,9 +1,8 @@
 Plutonium Black Ops 2 (T6) zombies mod menu
 
-Disclaimer:This menu is for custom games / solo play only.
+**Disclaimer:** This menu is for custom games only
 
-
-Features
+## Features
 
 Language Menu
 
